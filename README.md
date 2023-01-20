@@ -7,6 +7,12 @@
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/sangaywangchuk/sangaywangchuk/main/assets/typing.svg" />
 
+### Talking about Personal Stuffs:
+
+- 🛠 &nbsp; I’m currently working with Nodejs, Angular, React, <br /> integrating rest api, Javascript, typescript etc.
+- 🚀 &nbsp; I’m currently learning Full Stack Development.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/sangaywangchuk).
+- 📫 &nbsp; How to reach me: sangaywangchuk100@gmail.com.
 <details open>
   <summary><h2>🛠 Skills and Tools</h2></summary>
   <br>
