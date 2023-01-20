@@ -4,25 +4,22 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+Am+Sangay+Wangchuk;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-
+<hr>
 <details open>
   <summary><h2>🛠 Skills and Tools</h2></summary>
+  <br>
   <p>
     <code><img width="5%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
     <code><img width="5%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
     <code><img width="5%" src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png"></code>
     <code><img width="5%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
-    <code><img width="5%" src="https://i.imgur.com/tjPOPhB.png"></code>
-    <code><img width="5%" src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png"></code>
     <code><img width="5%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
-    <code><img width="5%" src="https://www.bluej.org/objects-first/images/logos/bluej-128-embossed.png"></code>
-    <code><img width="5%" src="https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png"></code>
-    <code><img width="5%" src="https://cdn.iconscout.com/icon/free/png-256/discord-4408614-3649972.png"></code>
     <code><img width="5%" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>
     <code><img width="5%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
     <code><img width="5%" src="https://seeklogo.com/images/G/github-colored-logo-FDDF6EB1F0-seeklogo.com.png"></code>
   </p>
 </details>
+<hr>
 <details open>
   <summary><h2 align="center">⚡ Stats ⚡</h2></summary>
   <p align=center>
@@ -45,7 +42,5 @@
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sangaywangchuk&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 </details>
-
-
 <hr>
 
