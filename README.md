@@ -38,7 +38,7 @@
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=sangaywangchuk&theme=react&border=61dafb&hide_border=true" alt="sangay" />
     </a>
     <a href="https://github.com/sangaywangchuk/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=sangaywangchuk&show_icons=true&theme=radical" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=sangaywangchuk&show_icons=true&theme=cobalt" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
