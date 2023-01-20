@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/sangaywangchuk/sangaywangchuk/main/assets/typing.svg" />
+<img align="right" height="350" width="475" alt="" src="https://raw.githubusercontent.com/sangaywangchuk/sangaywangchuk/main/assets/typing.svg" />
 
 ### Talking about Personal Stuffs:
 
