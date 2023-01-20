@@ -4,6 +4,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+Am+Sangay+Wangchuk;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
+
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/sangaywangchuk/sangaywangchuk/main/assets/typing.gif" />
+
 <details open>
   <summary><h2>🛠 Skills and Tools</h2></summary>
   <br>
