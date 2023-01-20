@@ -3,18 +3,30 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+Am+Sangay+Wangchuk;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
+
+<img align="right" height="350" width="475" alt="" src="https://raw.githubusercontent.com/sangaywangchuk/sangaywangchuk/main/assets/typing.svg" />
+
+### Talking about Personal Stuffs:
+
+- 🛠 &nbsp; I’m currently working with Nodejs, Angular, React, <br /> integrating rest api, Javascript, typescript etc.
+- 🚀 &nbsp; I’m currently working as frontend Development.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/sangaywangchuk).
+- 📫 &nbsp; How to reach me: sangaywangchuk100@gmail.com.
 <details open>
   <summary><h2>🛠 Skills and Tools</h2></summary>
   <br>
   <p>
     <code><img width="5%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
     <code><img width="5%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
-    <code><img width="5%" src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png"></code>
+    <code><img width="5%" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></code>
     <code><img width="5%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
     <code><img width="5%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
-    <code><img width="5%" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>
-    <code><img width="5%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
-    <code><img width="5%" src="https://seeklogo.com/images/G/github-colored-logo-FDDF6EB1F0-seeklogo.com.png"></code>
+    <code><img width="5%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
+    <code><img width="5%" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></code>
+    <code><img width="5%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
+    <code><img width="5%" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></code>
+
+
   </p>
 </details>
 <hr>
