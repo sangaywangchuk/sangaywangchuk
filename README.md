@@ -44,7 +44,7 @@
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/sangaywangchuk/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangaywangchuk&layout=compact" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangaywangchuk&layout=compact&theme=react&show_icons=true" />
     </a>
   </div>
   <br>
