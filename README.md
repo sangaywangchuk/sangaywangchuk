@@ -23,7 +23,7 @@
     <code><img width="5%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
     <code><img width="5%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
     <code><img width="5%" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>
-    <code><img width="5%" src="[https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg](https://www.vectorlogo.zone/util/preview.html?image=/logos/angular/angular-ar21.svg)"></code>
+    <code><img width="5%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
     <code><img width="5%" src="https://seeklogo.com/images/G/github-colored-logo-FDDF6EB1F0-seeklogo.com.png"></code>
   </p>
 </details>
