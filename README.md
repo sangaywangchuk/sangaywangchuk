@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/sangaywangchuk/sangaywangchuk/main/assets/typing.gif" />
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/sangaywangchuk/sangaywangchuk/main/assets/typing.svg" />
 
 <details open>
   <summary><h2>🛠 Skills and Tools</h2></summary>
