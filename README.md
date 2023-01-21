@@ -8,8 +8,8 @@
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Angular, React, <br /> integrating rest api, Javascript, typescript etc.
-- 🚀 &nbsp; I’m currently working as frontend Development.
+- 🛠 &nbsp; I’m currently working with Nodejs, Angular, React, Javascript, typescript etc.
+- 🚀 &nbsp; I’m currently working as frontend Developer.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/sangaywangchuk).
 - 📫 &nbsp; How to reach me: sangaywangchuk100@gmail.com.
 <details open>
