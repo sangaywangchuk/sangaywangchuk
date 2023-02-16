@@ -34,16 +34,16 @@
   <summary><h2 align="center">⚡ Stats ⚡</h2></summary>
   <p align=center>
   <div align=center>
-    <a href="https://github.com/sangaywangchuk/github-readme-streak-stats" title="Go to Source">
+    <a title="Go to Source">
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=sangaywangchuk&theme=react&border=61dafb&hide_border=true" alt="sangay" />
     </a>
-    <a href="https://github.com/sangaywangchuk/github-readme-stats" title="Go to Source">
+    <a title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=sangaywangchuk&show_icons=true&theme=react" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
-    <a href="https://github.com/sangaywangchuk/github-readme-stats">
+    <a>
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangaywangchuk&layout=compact&theme=react&show_icons=true" />
     </a>
   </div>
